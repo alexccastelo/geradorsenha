@@ -1,1 +1,1 @@
-web: gunicorn senhas:application
+web: gunicorn senhas:app
