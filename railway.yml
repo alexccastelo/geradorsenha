@@ -1,0 +1,5 @@
+name: geradorsenha
+services:
+  - type: web
+    buildCommand: pip install -r requirements.txt
+    runCommand: python app.py
